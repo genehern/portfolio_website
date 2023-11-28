@@ -9,7 +9,7 @@ function Contact() {
 
       <div className='contactMe'>
         <div className='contactInfo'>
-          <h2>Let's work together</h2>
+          <h2>Let's work together!</h2>
           <h3>Mail</h3>
           <p>genehernlee@gmail.com</p>
           <h3>Phone</h3>
@@ -31,8 +31,7 @@ function Contact() {
           </div>
           </div>
       </div>
-    
-
+    https://portfolio-website-henna-seven.vercel.app/contact/success
   )
 }
 
