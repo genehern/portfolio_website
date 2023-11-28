@@ -17,7 +17,7 @@ function Contact() {
 
         </div>
         <div className='textBoxes'>
-          <form target="_blank" action="https://formsubmit.co/genehernlee@gmail.com" method="POST">
+          <form target="_blank" action="https://formsubmit.co/2b851d23fdcecb68c01614e0d52ba42d" method="POST">
             <input type='text' name='_honey' style={{ display: "none" }} />
             <input type='hidden' name='_captcha' value='false' />
             <input type='hidden' name='_next' value='https://portfolio-website-henna-seven.vercel.app/contact/success.html' />
