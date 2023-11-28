@@ -20,7 +20,7 @@ function Contact() {
           <form target="_blank" action="https://formsubmit.co/genehernlee@gmail.com" method="POST">
             <input type='text' name='_honey' style={{ display: "none" }} />
             <input type='hidden' name='_captcha' value='false' />
-            <input type='hidden' name='_next' value='https://portfolio-website-henna-seven.vercel.app/contact/success' />
+            <input type='hidden' name='_next' value='https://portfolio-website-henna-seven.vercel.app/contact/success.html' />
                 <div className="form-group">
                       <input type="text" name="name" className="form-control" placeholder="Full Name" required/> 
                       <input type="email" name="email" className="form-control" placeholder="Email Address" required/>
