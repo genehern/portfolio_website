@@ -16,7 +16,7 @@ function Home() {
       <div className='wordDiv'>
         <h2>Hi, I am Gene Hern.</h2>
         <p>
-         I've created this website to share more about myself. Scroll down to find out more about me! Testing
+         I've created this website to share more about myself. Scroll down to find out more about me! 
          </p>
          </div>
     </div>
