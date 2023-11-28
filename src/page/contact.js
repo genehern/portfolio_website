@@ -31,7 +31,7 @@ function Contact() {
           </div>
           </div>
       </div>
-    https://portfolio-website-henna-seven.vercel.app/contact/success
+  
   )
 }
 
