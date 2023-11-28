@@ -1,0 +1,46 @@
+.navbar{
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        height: 15vh;
+        width:100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        position:fixed;
+        
+        .links{
+            display: flex;
+        }
+
+      .link {
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 1.2rem;
+        padding: 0 2vw;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      .link::after{
+        content: '';
+        display: block;
+        width: 0;
+        height: 0.2rem;
+        background-color: white;
+        transition: all .5s;
+      }
+
+      .link:hover::after{
+        width:100%;
+      }
+
+      .gene{
+        font-size: 2rem;
+        color: white;
+      }
+
+}
+
+
